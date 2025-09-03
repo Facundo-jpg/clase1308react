@@ -1,7 +1,7 @@
 import React from 'react'
-import Main from './views/Components/Main/Main'
-import Header from './views/Components/Header/Header'
-import Footer from './views/Components/Footer/Footer'
+import Main from './views/Components/main/Main'
+import Header from './views/Components/header/Header'
+import Footer from './views/Components/footer/Footer'
 
 const App = () => {
   return (
