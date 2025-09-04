@@ -1,16 +1,16 @@
 import React from 'react'
-import Main from './views/Components/main/Main'
-import Header from './views/Components/header/Header'
-import Footer from './views/Components/footer/Footer'
+import './App.css'
+import Landing from './assets/components/Landing/Landing'
 
 const App = () => {
   return (
     <>
-      <Header />
-      <Main />
-      <Footer />
+      <div>
+      </div>
+      <Landing />
     </>
   )
 }
+
 
 export default App

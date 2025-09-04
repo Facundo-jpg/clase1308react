@@ -1,0 +1,7 @@
+.header{
+    background-color: #4a009e;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
